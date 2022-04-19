@@ -1,13 +1,26 @@
-# SportyShoesPrototype
-Spring Boot application implementing RESTful web services for SportyShoes admin to login and manage Users and Product data and PurchaseRerport data in database.
+# Make an E-commerce Website for Sporty Shoes .
 
+## DESCRIPTION
 
-# To run the Project
+# Project objective:
 
-<img width="485" alt="image" src="https://user-images.githubusercontent.com/83321708/163555292-2582867c-87d1-4de1-8a28-38ba6a55b082.png">
+As a Full Stack Developer, complete the features of the application by planning the development and pushing the source code to the GitHub repository. 
+      
 
-# Application Logic
+## Background of the problem statement:
 
-First, as this is a Prototype Application, we need to set the admin credentials in the command line to use this web application. It will be required when browsing to the web application.
-Second, Open http://localhost:8089/swagger-ui.html and Enter the Admin Credentials to validate. After validating, it will take you to the operations of the webservices.
+Sporty Shoes is a company that manufactures and sells sports shoes. They have a walk-in store, and now, they wish to launch their e-commerce portal sportyshoes.com.
 
+You’re asked to develop a prototype of the application. It will be then presented to the relevant stakeholders for budget approval. Your manager has set up a meeting where you’re asked to do the following: 
+
+* Presenting the specification document which has the product’s capabilities, appearance, and user interactions
+* Setting up Git and GitHub account to store and track your enhancements of the prototype 
+* Explaining the Java concepts used in the project 
+* Discussing the generic features of the product:
+* There will be an admin to manage the website. An administrator login will be required to access the admin page. 
+
+The admin should be able to change his password if he wants, he should be able to:
+
+* Manage the products in the store including categorizing them
+* Browse the list of users who have signed up and be able to search users
+* See purchase reports filtered by date and category
